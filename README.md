@@ -21,8 +21,8 @@ Polygon Dreamed Yield Farming  [https://app.sandman.farm](https://app.sandman.fa
 
 |Contract     | PolygonScan Address       |
 |-------------|---------------------------|
-|Sandman Token|To Be Announce             |
-|MasterChef   |To Be Announce             |
-|TimeLock     |To Be Announce             |
+|Sandman Token|0xf9b4dEFdDe04fe18F5ee6456607F8A2eC9fF6A75            |
+|MasterChef   |0x898b5332dE3f0E87B363B0A47DE41C50b3C6E6A1 |
+|TimeLock     |0x3D0b643CB0093E6F248793f0f43B15C1a6B43d41      |
 
 HAPPY FARMING & Dream a Little Dream of SandMan Farm.
